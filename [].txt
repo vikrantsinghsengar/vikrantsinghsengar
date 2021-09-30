@@ -1,0 +1,4 @@
+import re
+txt="hi i am vikrant singh"
+x=re.findall("ra", txt)
+print(x)
